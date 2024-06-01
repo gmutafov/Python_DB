@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\add_constraints.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostgreSQL\\Data Types and Table Basics - Lab\\add_constraints.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\alter_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostgreSQL\\Data Types and Table Basics - Lab\\alter_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\truncate_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostgreSQL\\Data Types and Table Basics - Lab\\truncate_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\modify_columns.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostgreSQL\\Data Types and Table Basics - Lab\\modify_columns.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\drop_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostgreSQL\\Data Types and Table Basics - Lab\\drop_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\create_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostgreSQL\\Data Types and Table Basics - Lab\\create_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "truncate_tables.sql",
+              "DocumentMoniker": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\truncate_tables.sql",
+              "RelativeDocumentMoniker": "PostgreSQL\\Data Types and Table Basics - Lab\\truncate_tables.sql",
+              "ToolTip": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\truncate_tables.sql",
+              "RelativeToolTip": "PostgreSQL\\Data Types and Table Basics - Lab\\truncate_tables.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T18:46:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "alter_tables.sql",
+              "DocumentMoniker": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\alter_tables.sql",
+              "RelativeDocumentMoniker": "PostgreSQL\\Data Types and Table Basics - Lab\\alter_tables.sql",
+              "ToolTip": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\alter_tables.sql",
+              "RelativeToolTip": "PostgreSQL\\Data Types and Table Basics - Lab\\alter_tables.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T18:46:08.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add_constraints.sql",
+              "DocumentMoniker": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\add_constraints.sql",
+              "RelativeDocumentMoniker": "PostgreSQL\\Data Types and Table Basics - Lab\\add_constraints.sql",
+              "ToolTip": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\add_constraints.sql",
+              "RelativeToolTip": "PostgreSQL\\Data Types and Table Basics - Lab\\add_constraints.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T18:45:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modify_columns.sql",
+              "DocumentMoniker": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\modify_columns.sql",
+              "RelativeDocumentMoniker": "PostgreSQL\\Data Types and Table Basics - Lab\\modify_columns.sql",
+              "ToolTip": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\modify_columns.sql",
+              "RelativeToolTip": "PostgreSQL\\Data Types and Table Basics - Lab\\modify_columns.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T18:46:21.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "drop_tables.sql",
+              "DocumentMoniker": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\drop_tables.sql",
+              "RelativeDocumentMoniker": "PostgreSQL\\Data Types and Table Basics - Lab\\drop_tables.sql",
+              "ToolTip": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\drop_tables.sql*",
+              "RelativeToolTip": "PostgreSQL\\Data Types and Table Basics - Lab\\drop_tables.sql*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T18:46:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create_tables.sql",
+              "DocumentMoniker": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\create_tables.sql",
+              "RelativeDocumentMoniker": "PostgreSQL\\Data Types and Table Basics - Lab\\create_tables.sql",
+              "ToolTip": "C:\\Users\\grouf\\Desktop\\Software Engineering\\Repositories\\Python_DB\\PostgreSQL\\Data Types and Table Basics - Lab\\create_tables.sql*",
+              "RelativeToolTip": "PostgreSQL\\Data Types and Table Basics - Lab\\create_tables.sql*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T18:46:25.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
