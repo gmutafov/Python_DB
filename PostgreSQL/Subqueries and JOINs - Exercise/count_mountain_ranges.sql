@@ -10,4 +10,4 @@ WHERE
 GROUP BY
     mc.country_code
 ORDER BY
-    mountain_range_count DESC
+    mc.country_code
